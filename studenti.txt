@@ -1,0 +1,8 @@
+2,Amalia,10.00
+10,Adi,9.76
+1,Catrinel,8.65
+5,Daria,7.99
+8,Mariana,9.45
+65,Elena,10.00
+23,Emil,6.76
+12,Maria,5.89

@@ -1,0 +1,5 @@
+10,Hilton,5,Toma,5,4805.43
+7,BruhHotel,2,Sabrina,2,237.55
+89,Hotel Transilvania,5,Maria,3,1854.33
+19,Interclass,4,Ana,4,3499.99
+17,Intercontinental,4,Amalia,2,2465.43
