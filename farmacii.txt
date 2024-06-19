@@ -1,0 +1,5 @@
+10,Catena,15784.33,Daria,3,Focsani
+34,Doctor Max, 5678.33,Catrinel,1,Bucuresti
+12,Sensiblu,73612.367,Nastase,7,Brasov
+45,HealthCare,3642.224,Amalia,5,Bucuresti
+23,Catena,239948.45,Adrian Octavian,8,Bucuresti
